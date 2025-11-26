@@ -35,7 +35,7 @@ import {
     SearchApiResponse,
 } from "./model";
 
-const baseUrl = "https://atsu.moe/";
+const baseUrl = "https://rezoscan.org/";
 
 type AtsumaruImplementation = Extension &
     SearchResultsProviding &
