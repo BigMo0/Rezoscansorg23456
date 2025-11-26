@@ -4,7 +4,7 @@ export class Interceptor extends PaperbackInterceptor {
     override async interceptRequest(request: Request): Promise<Request> {
         request.headers = {
             ...request.headers,
-            referer: `https://atsu.moe`,
+            referer: `https://rezoscan.org/`,
             "user-agent": await Application.getDefaultUserAgent(),
         };
         return request;
