@@ -5,7 +5,7 @@ A repository for paperback
 ## 🚀 Installation
 
 1. Open Paperback
-2. Add this repository using [this link](https://karrot0.github.io/KakarotExtension/0.9/stable/)
+2. Add this repository using [this link](paperback://addRepo?displayName=Default%20extensions&url=https%3A%2F%2Fpaperback-ios.github.io%2Fextensions%2Fmain)
 3. Install and enjoy reading!
 
 ---
