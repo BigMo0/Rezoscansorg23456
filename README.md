@@ -1,26 +1,6 @@
 # Kakarot Extension
 
-A repository for paperback that includes both manga and comic extensions
-
-## 📚 Available Sources
-
-- Atsumaru
-- Batcave
-- Elftoon
-- Hentai2Read
-- MangaBall
-- MangaBuddy
-- MangaFire
-- MangaPark
-- MangaTaro
-- NHentai
-- NovelFire
-- ReadAllComics
-- ReadComicsOnline
-
-## 📋 Upcoming Sources
-
--
+A repository for paperback
 
 ## 🚀 Installation
 
